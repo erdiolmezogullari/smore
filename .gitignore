@@ -98,3 +98,5 @@ pyRecGraph.cpp
 
 # MAC .DS_Store file 
 .DS_Store
+example/*.txt
+example/*.gz
